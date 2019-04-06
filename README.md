@@ -2,6 +2,6 @@
 
 ### Frontend Crypto Donor Experience 
 
-<img src="https://i.imgur.com/7cKMimU.jpg" alt="webp" width="500" height="333"/>
+<img src="https://i.imgur.com/7cKMimU.jpg" alt="webp"  width="500" height="500"/>
 
 
